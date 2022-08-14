@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=toughC&show_icons=true&theme=aura"/></a>&nbsp 
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saysoom)](https://solved.ac/saysoom/"/></a>&nbsp
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saysoom)](https://solved.ac/saysoom"/></a>&nbsp
  </p>
 
 # 💪Skills
