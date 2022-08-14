@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
  <img src="https://github-readme-stats.vercel.app/api?username=toughC&show_icons=true&theme=aura"/></a>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saysoom)](https://solved.ac/saysoom/)
 
- </p>
+ </p><br><br>
 
 # 💪Skills
 <h3 align="center"> Platforms & Languages </h3>
