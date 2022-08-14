@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # 💪Skills
 <p align="center">
-<h2> Platforms & Languages </h2>
+<h2> Platforms & Languages 
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp<br>
  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/LInux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
+ <img src="https://img.shields.io/badge/LInux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br></h2>
 </p>
 
 <p align="center">
