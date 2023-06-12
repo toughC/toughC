@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![toughC's GitHub stats](https://github-readme-stats.vercel.app/api?username=toughC)](https://github.com/toughC/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={saysoom})](https://solved.ac/{saysoom})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=saysoom)](https://solved.ac/saysoom)
 
 
  </p><br><br>
