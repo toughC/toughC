@@ -21,7 +21,7 @@
 
 
 
-✨  <I>[RESUME](https://bit.ly/)</I>    
+✨  <I>[RESUME](https://www.notion.so/864c020de6544697a98ab451d577c337?pvs=4)</I>    
 🌱  <I>[PORTFOLIO](https://bit.ly/)</I>     
 ✏️  <I>[TISTORY](https://hon486.tistory.com/)</I>    
 
