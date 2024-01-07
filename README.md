@@ -1,4 +1,4 @@
-## *Software Engineer*, 포기하지않는 개발자
+## *Software Engineer*, 포기하지 않는 개발자
 ![](https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
