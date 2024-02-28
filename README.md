@@ -17,6 +17,9 @@
 * **차세대 보안리더 양성 프로그램 Best of the Best 11기** <I>2022.07.01. ~ 2023.03.31.</I>
 * **소프트웨어야 놀자 대학생 멘토** <I>2022.05.14. ~ 2022.12.21.</I>
 
+✨  <I>[RESUME](https://sparkly-cold-38b.notion.site/864c020de6544697a98ab451d577c337?pvs=4)</I>    
+🌱  <I>[PORTFOLIO](https://sparkly-cold-38b.notion.site/portfolio-5f6b5fc3cff0426cb83303213570cfad?pvs=4)</I>   
+✏️  <I>[TISTORY](https://hon486.tistory.com/)</I>    
 
 
 
